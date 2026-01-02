@@ -1,0 +1,13 @@
+2025-12-15 16:24:45 [main] INFO  BassClass - Config.properties File Loaded 
+2025-12-15 16:25:39 [main] INFO  BassClass - ChromeDriver instance is created
+2025-12-15 16:25:46 [main] INFO  BassClass - WebDriver Initialized and Browser Maximized
+2025-12-15 16:25:46 [main] INFO  ActionClass - WebDriver instance is created
+2025-12-15 16:25:46 [main] INFO  BassClass - ActionClass instance is created
+2025-12-15 16:25:46 [main] TRACE BassClass - This is trace message
+2025-12-15 16:25:46 [main] DEBUG BassClass - This is trace message
+2025-12-15 16:25:46 [main] INFO  BassClass - This is trace message
+2025-12-15 16:25:46 [main] WARN  BassClass - This is trace message
+2025-12-15 16:25:46 [main] INFO  ActionClass - Entered Text : admin
+2025-12-15 16:25:46 [main] INFO  ActionClass - Entered Text : admin124
+2025-12-15 16:25:46 [main] INFO  ActionClass - Clicked the element
+2025-12-15 16:25:47 [main] INFO  BassClass - WebDriver instance is closed
